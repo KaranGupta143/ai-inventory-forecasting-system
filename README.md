@@ -220,3 +220,4 @@ Suggested contribution workflow:
 This repository currently does not include a formal license file.
 Add a `LICENSE` file to define legal usage terms.
 # ai-ecommerce-catalog-generator
+# ai-inventory-forecasting-system
